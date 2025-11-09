@@ -1,2 +1,0 @@
-Warning[2103] C:\Users\admin\Desktop\Embedded_Projects\PIC18F4580_PROJECTS\8BIT_LCD\8BIT_LCD.c 39 : default startup code expects main function declared as 'void main (void)'
-Warning[2058] C:\Users\admin\Desktop\Embedded_Projects\PIC18F4580_PROJECTS\8BIT_LCD\8BIT_LCD.c 41 : call of function without prototype

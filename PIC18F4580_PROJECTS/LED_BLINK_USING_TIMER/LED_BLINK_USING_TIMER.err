@@ -1,0 +1,3 @@
+Warning[2103] C:\Users\admin\Desktop\Embedded_Projects\PIC18F4580_PROJECTS\LED_BLINK_USING_TIMER\LED_BLINK_USING_TIMER.C 14 : default startup code expects main function declared as 'void main (void)'
+Warning[2058] C:\Users\admin\Desktop\Embedded_Projects\PIC18F4580_PROJECTS\LED_BLINK_USING_TIMER\LED_BLINK_USING_TIMER.C 20 : call of function without prototype
+Warning[2058] C:\Users\admin\Desktop\Embedded_Projects\PIC18F4580_PROJECTS\LED_BLINK_USING_TIMER\LED_BLINK_USING_TIMER.C 22 : call of function without prototype
